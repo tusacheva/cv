@@ -20,7 +20,7 @@ Areas of expertise: Java programming, Mobile-development (Android).
 Professional Experience
 -----------------------
 
-### November 2016 - now
+### November 2016 - June 2018
 
 [Banuba Development][1]
 
@@ -33,10 +33,10 @@ Software engineer (Android developer)
   
 ### October 2015 - October 2016
 
-[your.ID][2]
+[Folio][2]
 
 Software engineer (Android team lead)
-* Designed and developed from scratch Android app for person’s identity proofing
+* Designed and developed from scratch [Android app][10] for person’s identity proofing
 * Developed camera based authentication using face biometrics and government issued ID
 * Leaded team of 3 developers
 * Code review
@@ -47,7 +47,7 @@ Software engineer (Android team lead)
 
 Software engineer (Android developer)
 * Developed IG Major Markets trading app
-* Developed Nadex trading [app][8]
+* Developed [Nadex][8] trading app
 * Code review
 
 ### August 2012 - November 2014
@@ -60,7 +60,7 @@ Software engineer (Android/iOS developer)
 
 ### November 2011 - July 2012
 
-[iTRexGroup][4]
+[iTRexGroup][5]
 
 Software engineer (Android/iOS/MacOS developer)
 
@@ -97,14 +97,15 @@ English: Intermediate
 Russian: Mother tongue
 
 ----
-Last updated: Feb 10, 2018
+Last updated: July 2018
 
 [1]: https://banuba.com/
-[2]: https://www.linkedin.com/company/your.id/
+[2]: https://folioltd.com/
 [3]: https://www.ig.com
 [4]: https://www.itechart.com/
 [5]: http://itrexgroup.com/
 [6]: https://play.google.com/store/apps/details?id=com.banuba.camera
 [7]: https://quickblox.com/
-[8]: https://play.google.com/store/apps/details?id=com.nadex.dxd
+[8]: https://www.nadex.com/trading-platforms/nadex-mobile
 [9]: https://play.google.com/store/apps/details?id=com.thaijoop
+[10]: https://play.google.com/store/apps/details?id=com.folioltd
